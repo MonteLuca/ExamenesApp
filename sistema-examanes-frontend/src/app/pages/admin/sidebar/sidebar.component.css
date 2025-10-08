@@ -1,0 +1,12 @@
+.align-middle {
+  vertical-align: middle;
+}
+
+.align-container {
+  display: flex;
+  align-items: center;
+}
+
+.align-container mat-icon {
+  margin-right: 5px; /* Ajusta el valor del margen según tus necesidades */
+}

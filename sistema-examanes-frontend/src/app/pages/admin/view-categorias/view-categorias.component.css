@@ -1,0 +1,7 @@
+.custom-card {
+  padding: 10px;
+}
+
+mat-divider {
+  border-top-color: rgba(83, 82, 82, 0.664);
+}
